@@ -1,2 +1,3 @@
 # Digital-Image-Processing-Lab
-MAT LAB Experiments
+MATLAB Experiments
+List of Experiments:
