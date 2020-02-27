@@ -8,3 +8,4 @@ List of Experiments:
 4. Enhancing an image using Gamma function
 5. Enhancing an image using Logarithmic function
 6. Salt & Pepper Noise, Gaussian Noise and Speckle Noise using Averaging Filter of size 3x3 and 5x5
+7. Salt & Pepper Noise from colour image
