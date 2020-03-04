@@ -9,3 +9,4 @@ List of Experiments:
 5. Enhancing an image using Logarithmic function
 6. Salt & Pepper Noise, Gaussian Noise and Speckle Noise using Averaging Filter of size 3x3 and 5x5
 7. Salt & Pepper Noise from colour image
+8. 2D and 3D view of an filtered image.
